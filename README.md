@@ -1,2 +1,2 @@
-# tables2qubits
-Easy to use approach to converting tabular data to quantum circuits
+# clean_transcripts_cxs
+Scripts to convert MSFT Teams' meeting transcripts to dialogue text.
