@@ -4,15 +4,15 @@ Scripts to convert MSFT Teams' meeting transcripts to dialogue text.
 To start using clean_transcripts, you need to follow a few steps to get set up.
 
 1. Open a Powershell window or terminal window on your device.
-2. Download python - Copy/Paste line 8 below and hit enter in your Powershell window.
+2. Download python - Copy/Paste/Enter:
     Invoke-WebRequest -Uri https://www.python.org/ftp/python/3.9.7/python-3.9.7-amd64.exe -OutFile python.exe
-   Install python - Copy/Paste line 10 below and hit enter in your Powershell window.
+   Install python - Copy/Paste/Enter:
     ./python.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
-3. Download pip - Copy/Paste line 12 below and hit enter in your Powershell window.
+3. Download pip - Copy/Paste/Enter:
     Invoke-WebRequest https://bootstrap.pypa.io/get-pip.py -OutFile get-pip.py
-   Install pip - Copy/Paste line 14 below and hit enter in your Powershell window.
+   Install pip - Copy/Paste/Enter:
     python get-pip.py
-4. Pip install the necessary modules for Clean_Transcript.py (COPY/PASTE the following lines)
+4. Pip install the necessary modules for Clean_Transcript.py (COPY/PASTE/ENTER the following pip installs)
     pip install tkinter
     pip install nltk
     pip install 
