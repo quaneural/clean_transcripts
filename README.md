@@ -15,7 +15,8 @@ To start using clean_transcripts, you need to follow a few steps to get set up.
 6. Pip install the necessary modules for Clean_Transcript.py (COPY/PASTE/ENTER the following pip installs)
     pip install tkinter
     pip install nltk
-    pip install 
+    pip install docx
+    pip install update python-docx
 7. Type python C:\Users\your_username\Downloads\Clean_Transcript.py 
     A GUI should appear prompting you to select the file to be cleaned. 
 8. In the GUI window, click Select File, navigate to the file you wish to clean in your file explorer, click Clean up file.
