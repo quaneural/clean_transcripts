@@ -1,4 +1,4 @@
-# cleanMSFTteamstranscripts
+# mr_clean_transcripts
 Scripts to convert MSFT Teams' meeting transcripts to dialogue text.
 
 To start using clean_transcripts, you need to follow a few steps to get set up.
